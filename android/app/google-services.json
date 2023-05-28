@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915882188852",
+    "project_id": "fir-notification-cba84",
+    "storage_bucket": "fir-notification-cba84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915882188852:android:5e78ed2f300b5db54faa61",
+        "android_client_info": {
+          "package_name": "com.shubham.notification_and_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_ZNk9dkpYdnj86dPGJLIJ6017BKttA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
